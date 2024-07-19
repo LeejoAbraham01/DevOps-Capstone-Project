@@ -8,17 +8,13 @@ assignees: LeejoAbraham01
 ---
 
 #### Scenario:
-```
 **As a**: [ role ]
 **I need**: [ function ]
 **So that**: [ benefit ]
-```
    
 #### Details and Assumptions:
-```
 1. [ document 1 ]
 2. [ document 2 ]
-```
    
 #### Acceptance Criteria:
 ```gherkin
