@@ -3,7 +3,7 @@ name: User Story
 about: A general description of a software feature / issue.
 title: Feature / Issue
 labels: ''
-assignees: LeejoAbraham01
+assignees: ''
 
 ---
 
